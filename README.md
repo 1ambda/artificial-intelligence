@@ -1,5 +1,13 @@
 ## AI note
 
+### Artificial Intelligence (CS188) 
+
+by *Dan Klein, Pieter Abbeel*
+
+1. [Intro](http://1ambda.github.io/artificial-intelligence-1)  
+2. [Search](http://1ambda.github.io/artificial-intelligence-2)  
+
+
 ### Artificial Intelligence Planning
 
 by *Dr.Gerhard Wickler*, *Prof. Austin Tate*
